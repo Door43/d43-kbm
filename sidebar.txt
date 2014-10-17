@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbm:home|Door43 (kbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbm|d43-kbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbm/archive/master.zip|d43-kbm.zip]]
+
+**Recent Changes**
+{{changes>ns = kbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbm|Ethnologue data]]
+
